@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 console.log("JS LOADED");
 window.sendMessage = function () {
     let input = document.getElementById("messageInput");
@@ -43,4 +41,3 @@ function searchNotes() {
         }
     }
 }
->>>>>>> 56cb8c7 (javascript notes søgefunktion tilføjet)
