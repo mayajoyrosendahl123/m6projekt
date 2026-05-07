@@ -26,3 +26,19 @@ window.sendMessage = function () {
         chatBox.appendChild(tutorMsg);
     }, 1000);
 };
+
+function searchNotes() {
+    let input = document.getElementById("searchInput").value.toLowerCase();
+    let notes = document.getElementsByClassName("note");
+
+    for (let i = 0; i < notes.length; i++) {
+        let text = notes[i].innerText.toLowerCase();
+
+        if (text.includes(input)) {
+            notes[i].style.display = "";
+        } else {
+            notes[i].style.display = "none";
+        }
+    }
+}
+};
