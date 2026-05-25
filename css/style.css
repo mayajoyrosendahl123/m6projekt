@@ -55,4 +55,13 @@ footer {
     padding: 20px;
     background-color: #6F8FB8;
     color: white;
-}                                                                                                                                              
+}       
+
+.box {
+    background-color: #ffffff;
+    padding: 25px;
+    margin: 30px auto;
+    border-radius: 15px;
+    max-width: 900px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
