@@ -1,0 +1,31 @@
+/* NAVIGATION */
+nav {
+    margin-top: 10px;
+}
+
+/* MAIN INDHOLD */
+main {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+/* BODY - hele siden */
+body {line-height: 1.6;
+    padding: 0 30px;
+}
+
+header {padding: 20px;
+}
+
+/* Section */
+section {   padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.page-title {
+    max-width: 900px;
+    margin: 40px auto 10px auto;
+    padding: 0 10px;
+}
