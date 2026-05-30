@@ -4,8 +4,6 @@ StudyHub er en hjemmeside designet til studerende, hvor de kan finde noter, guid
 
 Det er en basis-hjemmeside med mulighed for videreudvikling og løbende tilføjelser af noter og andre relevante studieteknikker/dokumenter. 
 
----
-
 ## Features
 
 - Noter og guides
@@ -15,8 +13,6 @@ Det er en basis-hjemmeside med mulighed for videreudvikling og løbende tilføje
 - Chatfunktion
 - Brugervenligt og intuitivt
 
----
-
 ## Tech Stack
 
 Projektet er bygget med:
@@ -24,8 +20,6 @@ Projektet er bygget med:
 - HTML5
 - CSS3
 - JavaScript
-
----
 
 ## Projektstruktur
 
@@ -40,8 +34,6 @@ m6projekt/
 ├── index.html    # Forside
 └── README.md
 ```
-
----
 
 ## Installation
 
@@ -59,8 +51,6 @@ cd m6projekt
 
 Åbn derefter `index.html` i browseren.
 
----
-
 ## Usage
 
 Projektet kan bruges direkte i browseren uden ekstra installation.
@@ -71,8 +61,6 @@ Du kan:
 - læse studieindhold
 - udforske AI-værktøjer
 - finde studietips og ressourcer
-
----
 
 ## Screenshots
 
@@ -88,16 +76,12 @@ Du kan:
 ### Chat
 ![Chat](images/Chat.png)
 
----
-
 ## Fremtidige forbedringer
 
-- [ ] Login-system for admin med mulighed for at tilføje noter og studieteknikker samt rette siderne til
-- [ ] Login-system for tutor hvor de kan tilgå chat funktionen
-- [ ] Gemme noter og favoritter
-- [ ] Backend/database integration
-
----
+- Login-system for admin med mulighed for at tilføje noter og studieteknikker samt rette siderne til
+- Login-system for tutor hvor de kan tilgå chat funktionen
+- Gemme noter og favoritter
+- Backend/database integration
 
 ## License
 
