@@ -2,7 +2,7 @@
 
 StudyHub er en hjemmeside designet til studerende, hvor de kan finde noter, guides og studietips inden for forskellige fagområder.
 
-Det er en basis-hjemmeside med mulighed for videreudvikling og løbende tilføjelser af noter og andre relevante studieteknikker/dokumenter. 
+Den nuværende StudyHub er udviklet som en statisk prototype med HTML, CSS og Javascript og er udviklet uden backend og database. Som man kan læse i vores designdokument UML.md, er hjemmesiden designet til at kunne videreudvilkles løbende.
 
 ## Features
 
