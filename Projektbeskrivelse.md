@@ -1,10 +1,10 @@
-#Projektbeskrivelse
+# Projektbeskrivelse
 
-##Formål:
+## Formål:
 
 StudyHub er en hjemmeside designet til studerende, hvor de kan finde noter, guides og studietips inden for forskellige fagområder.
 
-##Projektmål:
+## Projektmål:
 
 Målet med projektet er at udvikle en basis-hjemmeside, som kan videreudvikles løbende med nye funktioner og indhold.
 
@@ -20,21 +20,21 @@ Hjemmesiden er udviklet med henblik på løbende udvidelse, så den altid forhol
 udviklet ud fra brugerens perspektiv, hvilket betyder, at der endnu ikke er implementeret login funktioner for admin eller tutor at 
 interagere med. 
 
-##På længere sigt vil det være muligt at videreudvikle hjemmesiden med: 
+## På længere sigt vil det være muligt at videreudvikle hjemmesiden med: 
 
 - Login funktion for administratorer, så indhold kan oprettes og redigeres løbende 
 - Login funktion for tutorer, så de kan tilgå og administrere chatfunktionen
 
-##Målgruppe:
+## Målgruppe:
 
 Målgruppen for hjemmesiden er studerende på ungdomsuddannelser og videregående uddannelser.
 
-##Succeskriterier:
+## Succeskriterier:
 
 Projektet kan vurderes som succesfuld, hvis hjemmesiden fremstår som brugervenlig, nem og overskuelig for  studerende, som giver de 
 nødvendige redskaber for at gøre studietiden nemmere.
 
-##Teknologier:
+## Teknologier:
 
 Projektet er udviklet ved brug af følgende:
 - HTML
@@ -45,11 +45,12 @@ Projektet er udviklet ved brug af følgende:
 - GitHub
 - Kanban-board
 
-##Udviklingsmetode:
+## Udviklingsmetode:
 Projektet er udviklet gennem en agil arbejdsproces, specifikt Kanban, med fokus på løbende udvikling, samarbejde og versionsstyring. 
-Til projektstyring er der anvendt GitHub Projects med Kanban-board til organisering af opgaver og arbejdsprocesser.
+Til projektstyring er der anvendt GitHub Projects med Kanban-board til organisering af opgaver og arbejdsprocesser. Vi har anvendt 
+roadmap til at strukturere tid og aftale start- og sluttidspunkter (se projektplan.pdf). 
 
-##Arkitektur:
+## Arkitektur:
 - Hjemmesiden er udviklet med udgangspunkt i en 3-lags arkitektur bestående af:
 - Præsentationslag 
 - Logiklag
