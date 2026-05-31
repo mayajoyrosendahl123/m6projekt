@@ -21,7 +21,7 @@ klasser. Den nuværende kode kan dermed struktureres mere modulært over tid.
 ## Use Case diagram
 
 Use case diagrammet viser de forskellige aktører og deres interaktion med
-hjemmesiden. Indtil videre er hjemmesiden kun udviklet med udgangspunkt i
+hjemmesiden (Sommerville, 2016, s.141). Indtil videre er hjemmesiden kun udviklet med udgangspunkt i
 den studerendes interaktion med hjemmesiden, men det endelige design skal
 også indeholde administrator og tutor. 
 
@@ -63,7 +63,7 @@ spørgsmål.
 
 ![Klassediagram](images/Klassediagram.png)
 
-Klassediagrammet viser den strukturelle opbygning af StudyHub. Designet er
+Klassediagrammet viser den strukturelle opbygning af StudyHub (Sommerville, 2016, s.141). Designet er
 baseret på objektorienteret principper, hvor fælles funktionalitet samles
 i klassen User, som specialeres gennem rollerne Student, Tutor og
 Adminstrator. Dette gør det nemmere at udvide hjemmesiden med nye brugerroller
