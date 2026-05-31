@@ -56,11 +56,14 @@ cd m6projekt
 Projektet kan bruges direkte i browseren uden ekstra installation.
 
 Du kan:
-
 - navigere mellem siderne
-- læse studieindhold
-- udforske AI-værktøjer
-- finde studietips og ressourcer
+- se sidernes indhold, dog kan man ikke se reelle noter o.l. da der ikke er en backend endnu
+- anvende søgefunktion under noter
+- anvende hypotetisk chat funktion
+
+Hjemmesiden giver et reelt indblik i hjemmesidens funktion og hvordan man som bruger interagerer med den,
+uden noter og studie guides da der ikke er en backend. Chat funktionen er også kun hypotetisk, da vi ikke
+har udviklet hjemmesiden med tutor som user-case. Hvordan det potentielt skal se ud, kan ses i UML.md.
 
 ## Screenshots
 
