@@ -44,6 +44,7 @@ Projektet er udviklet ved brug af følgende:
 - Git
 - GitHub
 - Kanban-board
+- Roadmap
 
 ## Udviklingsmetode:
 Projektet er udviklet gennem en agil arbejdsproces, specifikt Kanban, med fokus på løbende udvikling, samarbejde og versionsstyring. 
