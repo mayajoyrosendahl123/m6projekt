@@ -5,6 +5,7 @@
 StudyHub er en hjemmeside designet til studerende, hvor de kan finde noter, guides og studietips inden for forskellige fagområder.
 
 ##Projektmål:
+
 Målet med projektet er at udvikle en basis-hjemmeside, som kan videreudvikles løbende med nye funktioner og indhold.
 
 De primære funktioner hjemmesiden skal have til at starte med:
