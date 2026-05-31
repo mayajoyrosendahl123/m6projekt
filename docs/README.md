@@ -68,16 +68,16 @@ har udviklet hjemmesiden med tutor som user-case. Hvordan det potentielt skal se
 ## Screenshots
 
 ### Forside
-![Forside](images/Forside.png)
+![Forside](../images/Forside.png)
 
 ### Studie Guides
-![Studieguides](images/Studieguide.png)
+![Studieguides](../images/Studieguide.png)
 
 ### Noter
-![Noter](images/Noter.png)
+![Noter](../images/Noter.png)
 
 ### Chat
-![Chat](images/Chat.png)
+![Chat](../images/Chat.png)
 
 ## Fremtidige forbedringer
 
