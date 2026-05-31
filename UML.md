@@ -5,7 +5,7 @@ har vi anvendt use case diagram og klassediagram som modelleringsværktøj.
 
 I StudyHub anvendes UML til at modellere systemets funktionelle krav gennem
 use cases, og systemets objekter, attributter og relationer gennem et 
-klassediagram. 
+klassediagram (Sommerville, 2016, s.141). 
 
 Systemets formål og funktioner kan læses i dokumentet: Projektbeskrivelse.
 
