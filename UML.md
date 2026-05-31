@@ -18,14 +18,14 @@ chat kan samles i JavaScript-klasser, mens fremtidige funktioner som login,
 brugerroller, administratoradgang og tutor-chat kan implementeres som nye 
 klasser. Den nuværende kode kan dermed struktureres mere modulært over tid. 
 
-## Use Case-diagram
+## Use Case diagram
 
-Use case-diagrammet viser de forskellige aktører og deres interaktion med
+Use case diagrammet viser de forskellige aktører og deres interaktion med
 hjemmesiden. Indtil videre er hjemmesiden kun udviklet med udgangspunkt i
 den studerendes interaktion med hjemmesiden, men det endelige design skal
 også indeholde administrator og tutor. 
 
-Indsæt use case diagram. 
+![Use Case Diagram](images/Use.case.diagram.png)
 
 **Aktør: Studerende**
 
@@ -61,7 +61,7 @@ spørgsmål.
 
 ## Klassediagram
 
-Indsæt diagram. 
+![Klassediagram](images/Klassediagram.png)
 
 Klassediagrammet viser den strukturelle opbygning af StudyHub. Designet er
 baseret på objektorienterede principper, hvor fælles funktionalitet samles
