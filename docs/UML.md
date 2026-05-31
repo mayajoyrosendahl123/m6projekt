@@ -25,7 +25,7 @@ hjemmesiden (Sommerville, 2016, s.141). Indtil videre er hjemmesiden kun udvikle
 den studerendes interaktion med hjemmesiden, men det endelige design skal
 også indeholde administrator og tutor. 
 
-![Use Case Diagram](images/Usecasediagram.png)
+![Use Case Diagram](../images/Usecasediagram.png)
 
 **Aktør: Studerende**
 
@@ -61,7 +61,7 @@ spørgsmål.
 
 ## Klassediagram
 
-![Klassediagram](images/Klassediagram.png)
+![Klassediagram](../images/Klassediagram.png)
 
 Klassediagrammet viser den strukturelle opbygning af StudyHub (Sommerville, 2016, s.141). Designet er
 baseret på objektorienteret principper, hvor fælles funktionalitet samles
