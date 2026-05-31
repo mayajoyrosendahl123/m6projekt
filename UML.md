@@ -1,7 +1,7 @@
 ## UML Design for StudyHub
 
 For at skabe en fælles forståelse for hvad hjemmesidens krav og design er,
-har vi anvendt use case-diagram og klassediagram som modelleringsværktøj. 
+har vi anvendt use case diagram og klassediagram som modelleringsværktøj. 
 
 I StudyHub anvendes UML til at modellere systemets funktionelle krav gennem
 use cases, og systemets objekter, attributter og relationer gennem et 
@@ -25,20 +25,20 @@ hjemmesiden. Indtil videre er hjemmesiden kun udviklet med udgangspunkt i
 den studerendes interaktion med hjemmesiden, men det endelige design skal
 også indeholde administrator og tutor. 
 
-![Use Case Diagram](images/Use.case.diagram.png)
+![Use Case Diagram](images/Usecasediagram.png)
 
 **Aktør: Studerende**
 
-Den studerende er den primære bnruger af StudyHub og kan:
+Den studerende er den primære bruger af StudyHub og kan:
 - Se fag og kategorier
 - Gennemse emner
-- Læse noter og guides
+- Læse noter og guides (mangler backend)
 - Søge efter indhold
 - Navigere mellem emner
-- Starte en chat med en tutor
+- Starte en chat med en tutor (kun hypotetisk i den nuværende prototype)
 
 Disse use cases understøtter projektets mål om at give studerende adgang
-til læringsressourcer og studiestøtte. 
+til læringsressourcer og studiestøtte.
 
 **Aktør: Administrator**
 
@@ -64,7 +64,7 @@ spørgsmål.
 ![Klassediagram](images/Klassediagram.png)
 
 Klassediagrammet viser den strukturelle opbygning af StudyHub. Designet er
-baseret på objektorienterede principper, hvor fælles funktionalitet samles
+baseret på objektorienteret principper, hvor fælles funktionalitet samles
 i klassen User, som specialeres gennem rollerne Student, Tutor og
 Adminstrator. Dette gør det nemmere at udvide hjemmesiden med nye brugerroller
 i fremtiden. 
